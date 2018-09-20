@@ -1,0 +1,7 @@
+name: 'VisualN Examples'
+type: module
+description: 'VisualN misc examples'
+core: 8.x
+package: 'VisualN'
+dependencies:
+  - visualn

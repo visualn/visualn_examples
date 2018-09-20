@@ -1,0 +1,14 @@
+{
+  "name": "drupal/visualn_examples",
+  "type": "drupal-module",
+  "description": "VisualN misc examples",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/visualn_examples",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/visualn_examples",
+    "source": "http://cgit.drupalcode.org/visualn_examples"
+  },
+  "require": { }
+}
